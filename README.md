@@ -21,5 +21,6 @@ The purpose of our app and website is to provide a comprehensive platform for bo
 - As a user, I want to view a list of upcoming events, so that I can plan my schedule and find events that interest me.
 
 ## Wireframes
+![Desktop view wireframes](./assets/wireframes-desktopview.png)
 
 ## Trello Board
