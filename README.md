@@ -16,6 +16,8 @@
 
 ## User Stories
 
+- As a user, I want to see a list of upcoming events, so that I can plan my schedule and attend events that interest me.
+
 ## Wireframes
 
 ## Trello Board
