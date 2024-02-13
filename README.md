@@ -38,7 +38,14 @@ The purpose of our app and website is to provide a comprehensive platform for bo
 
 ## User Stories
 
-- As a user, I want to view a list of upcoming events, so that I can plan my schedule and find events that interest me.
+- As a user, I want to create an account on the platform, so that I can access upcoming anime events and screenings.
+- As an event organiser, I want to have privileges to create and manage event listings, so that I can effectively organise events.
+- As a user, I want to view a list of upcoming events, so that I can find events that interest me.
+- As a user, I want to view events on a calendar, so that I can plan my schedule more effectively.
+- As a user, I want to RSVP to events I plan to attend, so that I can indicate my interest and help organisers gauge attendance.
+- As a user, I want to easily search and filter events by criteria like anime title, location, and date, so that I can find events that match my preferences.
+- As a user, I want event locations displayed on an embedded map, so that I can find venues easily.
+
 
 ## Wireframes
 ![Desktop view wireframes](./assets/wireframes-desktopview.png)
