@@ -16,8 +16,11 @@ The purpose of our app and website is to provide a comprehensive platform for bo
 - **Searching and filtering:** Allows users to easily find events based on criteria such as anime title, location and dates.
 - **Map integration:** Integrates maps to display event locations, helping users to navigate and find venues easily.
 
-
 ### Target Audience
+
+- **Anime fans and interested individuals:** The app caters to those who have an interest in anime culture and includes the most dedicated enthusiasts to those who are simply wanting to know more about anime. It is intended for fans across any genre, series or character. 
+
+- **Madman Entertainment and event organisers:** The app is intended for the client, as well as other verified organisers, to promote, advertise and garner interest in anime-related events, such as screenings, film festivals, marathons, meet-ups and conventions.  
 
 ### Tech Stack
 
