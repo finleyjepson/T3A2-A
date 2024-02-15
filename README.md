@@ -44,6 +44,12 @@ Organisers can access the platform by logging in with their username and passwor
 
 ![Login/Registration](./assets/login_diagram.png)
 
+### Profile Picture Upload
+
+The user will be able to upload a profile picture to their account by selecting an image file from their device. The image image will be uploaded to the AWS storage and a URL will be sent back to then be stored in the user's account in the users collection in the database.
+
+![Profile Picture Upload](./assets/image_upload.drawio.png)
+
 ## Application Architecture Diagram
 
 ## User Stories
