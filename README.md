@@ -34,6 +34,16 @@ The purpose of our app and website is to provide a comprehensive platform for bo
 
 ## Data Flow Diagram
 
+### Overview 
+
+### Login/Registration
+
+The user will be able to access the platform logging in with their username and password. If the user does not have an account, they can register and create a new account. 
+
+Organisers can access the platform by logging in with their username and password. If the organiser does not have an account, they can register and create a new account. The account will need to be flagged as an organiser by an admin.
+
+![Login/Registration](./assets/login_diagram.png)
+
 ## Application Architecture Diagram
 
 ## User Stories
