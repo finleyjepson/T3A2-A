@@ -53,19 +53,21 @@ The user will be able to upload a profile picture to their account by selecting 
 ## Application Architecture Diagram
 
 ## User Stories
-
+#### Written 14th February 2024
 - As a user, I want to create an account on the platform, so that I can access upcoming anime events and screenings.
-- As a user, I want to be able to log out of my account, so that my account is protected when I am not longer using it.
-- As a user, I want to upload a picture to my profile, so that I can customise my profile.
-- As a user, I want to add my top 5 favourite animes, so that I can customise my profile.
-- As a user, I want to add my favourite characters, so that I can customise my profile.
 - As an event organiser, I want to have privileges to create and manage event listings, so that I can effectively organise events.
-- As an event organiser, I want to be able to add an event name, state, category, date, venue, information and upload a photo, so that I can provide event information for patrons for my created event.
 - As a user, I want to view a list of upcoming events, so that I can find events that interest me.
 - As a user, I want to view events on a calendar, so that I can plan my schedule more effectively.
 - As a user, I want to RSVP to events I plan to attend, so that I can indicate my interest and help organisers gauge attendance.
 - As a user, I want to easily search and filter events by criteria like anime title, location, and date, so that I can find events that match my preferences.
 - As a user, I want event locations displayed on an embedded map, so that I can find venues easily.
+
+#### Revised and added on 15th February 2024
+- As a user, I want to be able to log out of my account, so that my account is protected when I am not longer using it.
+- As a user, I want to upload a picture to my profile, so that I can customise my profile.
+- As a user, I want to add my top 5 favourite animes, so that I can customise my profile.
+- As a user, I want to add my favourite characters, so that I can customise my profile.
+- As an event organiser, I want to be able to add an event name, state, category, date, venue, information and upload a photo, so that I can provide event information for patrons for my created event.
 
 ## Wireframes
 #### Not logged in vs. Logged in
