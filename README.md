@@ -69,6 +69,7 @@ The user will be able to upload a profile picture to their account by selecting 
 
 ## Wireframes
 #### Not logged in vs. Logged in
+
 ![Logged in wireframes](./assets/logged-in-wireframe.png)
 
 #### Desktop view
