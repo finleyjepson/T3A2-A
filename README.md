@@ -100,3 +100,6 @@ Profile and Create Events page
 ![Profile and Creates Events - Tablet view](./assets/tablet-view-wireframe1.png)
 
 ## Trello Board
+
+#### 2024-02-12
+![Profile and Creates Events - Tablet view](./assets/trello-12-feb.png)
