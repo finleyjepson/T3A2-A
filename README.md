@@ -73,6 +73,7 @@ The user will be able to upload a profile picture to their account by selecting 
 
 #### Desktop view
 Home and Events page
+
 ![Home & Events - Desktop view](./assets/desktop-view-wireframe1.png)
 
 Profile and Create Events page
@@ -80,6 +81,7 @@ Profile and Create Events page
 
 #### Mobile view
 Home and Events page
+
 ![Home & Events - Mobile view](./assets/mobile-view-wireframe1.png)
 
 Profile and Create Events page
@@ -87,6 +89,7 @@ Profile and Create Events page
 
 #### Tablet view
 Home and Events page
+
 ![Home & Events - Tablet view](./assets/tablet-view-wireframe1.png)
 
 Profile and Create Events page
