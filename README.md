@@ -34,6 +34,14 @@ The purpose of our app and website is to provide a comprehensive platform for bo
 
 ## Data Flow Diagram
 
+### Legend
+
+- **External Entity -** These are entities that interact with the system but are not part of the system, eg. users.
+- **Process -** These are the processes that occur within the system, eg. user authentication.
+- **Data Store -** These are the data stores that hold data within the system, eg. databases.
+
+![Legend](./assets/DataFlowDiagram/legend_diagram.drawio.png)
+
 ### Overview
 
 ![Data Flow Diagram](./assets//DataFlowDiagram/overview_diagram.drawio.png)
