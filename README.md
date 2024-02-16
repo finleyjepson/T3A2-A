@@ -103,5 +103,14 @@ Profile and Create Events page
 
 ## Trello Board
 
-#### 2024-02-12
+- 2024-02-12
 ![Profile and Creates Events - Tablet view](./assets/trello-12-feb.png)
+
+- 2024-02-14
+![Profile and Creates Events - Tablet view](./assets/trello-14-feb.png)
+
+- 2024-02-15
+![Profile and Creates Events - Tablet view](./assets/trello-15-feb.png)
+
+- 2024-02-16
+![Profile and Creates Events - Tablet view](./assets/trello-16-feb.png)
