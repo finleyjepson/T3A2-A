@@ -68,6 +68,6 @@ The user will be able to upload a profile picture to their account by selecting 
 - As a user, I want event locations displayed on an embedded map, so that I can find venues easily.
 
 ## Wireframes
-![Desktop view wireframes](./assets/wireframes-desktopview.png)
+![Logged in wireframes](./assets/logged-in-wireframe.png)
 
 ## Trello Board
