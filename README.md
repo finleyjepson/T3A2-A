@@ -24,7 +24,7 @@ The purpose of our app and website is to provide a comprehensive platform for bo
 
 ### Tech Stack
 
-- **Database:** [MongoDB](https://www.mongodb.com/), [AWS](https://aws.amazon.com/)
+- **Database:** [MongoDB](https://www.mongodb.com/) and [AWS](https://aws.amazon.com/)
 - **Backend:** [Express](https://expressjs.com/) and [Node.js](https://nodejs.org/) 
 - **Frontend:** [React](https://react.dev/) 
 - **Object Data Modeling (ODM) library:** [Mongoose](https://mongoosejs.com/) 
@@ -34,13 +34,17 @@ The purpose of our app and website is to provide a comprehensive platform for bo
 
 ## Data Flow Diagram
 
+### Overview
+
+![Data Flow Diagram](./assets//DataFlowDiagram/overview_diagram.drawio.png)
+
 ### Events
 
 The user will be able to view a list of upcoming events and screenings. The events will be displayed in a list format and will include details such as the event name, date, time, location, and a description. The user will also be able to view events on a calendar, making it easier to plan their schedules. The user will be able to RSVP to events they are interested in attending, providing organisers with insights into the attendance. The user will also be able to easily search and filter events based on criteria such as anime title, location and dates. They will also be able to view event locations on an embedded map, helping them to navigate and find venues easily.
 
 Organisers will be able to create and manage event listings. They will be able to add an event name, state, category, date, venue, information.
 
-![Events](./assets/events_diagram.drawio.png)
+![Events](./assets/DataFlowDiagram/events_diagram.drawio.png)
 
 ### Login/Registration
 
@@ -48,13 +52,13 @@ The user will be able to access the platform logging in with their username and 
 
 Organisers can access the platform by logging in with their username and password. If the organiser does not have an account, they can register and create a new account. The account will need to be flagged as an organiser by an admin.
 
-![Login/Registration](./assets/login_diagram.png)
+![Login/Registration](./assets/DataFlowDiagram/login_diagram.png)
 
 ### Profile Picture Upload
 
 The user will be able to upload a profile picture to their account by selecting an image file from their device. The image image will be uploaded to the AWS storage and a URL will be sent back to then be stored in the user's account in the users collection in the database.
 
-![Profile Picture Upload](./assets/image_upload.drawio.png)
+![Profile Picture Upload](./assets/DataFlowDiagram/image_upload.drawio.png)
 
 ## Application Architecture Diagram
 
@@ -78,45 +82,45 @@ The user will be able to upload a profile picture to their account by selecting 
 ## Wireframes
 #### Not logged in vs. Logged in
 
-![Logged in wireframes](./assets/logged-in-wireframe.png)
+![Logged in wireframes](./assets/Wireframe/logged-in-wireframe.png)
 
 #### Desktop view
 - Home and Events page
 
-![Home & Events - Desktop view](./assets/desktop-view-wireframe1.png)
+![Home & Events - Desktop view](./assets/Wireframe/desktop-view-wireframe1.png)
 
 Profile and Create Events page
 
-![Profile and Creates Events - Desktop view](./assets/desktop-view-wireframe2.png)
+![Profile and Creates Events - Desktop view](./assets/Wireframe/desktop-view-wireframe2.png)
 
 #### Mobile view
 - Home and Events page
 
-![Home & Events - Mobile view](./assets/mobile-view-wireframe1.png)
+![Home & Events - Mobile view](./assets/Wireframe/mobile-view-wireframe1.png)
 
 - Profile and Create Events page
 
-![Profile and Creates Events - Mobile view](./assets/mobile-view-wireframe1.png)
+![Profile and Creates Events - Mobile view](./assets/Wireframe/mobile-view-wireframe1.png)
 
 #### Tablet view
 - Home and Events page
 
-![Home & Events - Tablet view](./assets/tablet-view-wireframe1.png)
+![Home & Events - Tablet view](./assets/Wireframe/tablet-view-wireframe1.png)
 
 - Profile and Create Events page
 
-![Profile and Creates Events - Tablet view](./assets/tablet-view-wireframe1.png)
+![Profile and Creates Events - Tablet view](./assets/Wireframe/tablet-view-wireframe1.png)
 
 ## Trello Board
 
 - 2024-02-12
-![Profile and Creates Events - Tablet view](./assets/trello-12-feb.png)
+![Profile and Creates Events - Tablet view](./assets/Trello/trello-12-feb.png)
 
 - 2024-02-14
-![Profile and Creates Events - Tablet view](./assets/trello-14-feb.png)
+![Profile and Creates Events - Tablet view](./assets/Trello/trello-14-feb.png)
 
 - 2024-02-15
-![Profile and Creates Events - Tablet view](./assets/trello-15-feb.png)
+![Profile and Creates Events - Tablet view](./assets/Trello/trello-15-feb.png)
 
 - 2024-02-16
-![Profile and Creates Events - Tablet view](./assets/trello-16-feb.png)
+![Profile and Creates Events - Tablet view](./assets/Trello/trello-16-feb.png)
