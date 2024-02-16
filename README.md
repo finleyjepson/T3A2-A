@@ -34,7 +34,13 @@ The purpose of our app and website is to provide a comprehensive platform for bo
 
 ## Data Flow Diagram
 
-### Overview 
+### Events
+
+The user will be able to view a list of upcoming events and screenings. The events will be displayed in a list format and will include details such as the event name, date, time, location, and a description. The user will also be able to view events on a calendar, making it easier to plan their schedules. The user will be able to RSVP to events they are interested in attending, providing organisers with insights into the attendance. The user will also be able to easily search and filter events based on criteria such as anime title, location and dates. They will also be able to view event locations on an embedded map, helping them to navigate and find venues easily.
+
+Organisers will be able to create and manage event listings. They will be able to add an event name, state, category, date, venue, information.
+
+![Events](./assets/events_diagram.drawio.png)
 
 ### Login/Registration
 
