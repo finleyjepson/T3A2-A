@@ -24,7 +24,7 @@ The purpose of our app and website is to provide a comprehensive platform for bo
 
 ### Tech Stack
 
-- **Database:** [MongoDB](https://www.mongodb.com/) 
+- **Database:** [MongoDB](https://www.mongodb.com/), [AWS](https://aws.amazon.com/)
 - **Backend:** [Express](https://expressjs.com/) and [Node.js](https://nodejs.org/) 
 - **Frontend:** [React](https://react.dev/) 
 - **Object Data Modeling (ODM) library:** [Mongoose](https://mongoosejs.com/) 
