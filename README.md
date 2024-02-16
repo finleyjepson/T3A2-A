@@ -68,6 +68,28 @@ The user will be able to upload a profile picture to their account by selecting 
 - As a user, I want event locations displayed on an embedded map, so that I can find venues easily.
 
 ## Wireframes
+#### Not logged in vs. Logged in
 ![Logged in wireframes](./assets/logged-in-wireframe.png)
+
+#### Desktop view
+Home and Events page
+![Home & Events - Desktop view](./assets/desktop-view-wireframe1.png)
+
+Profile and Create Events page
+![Profile and Creates Events - Desktop view](./assets/desktop-view-wireframe2.png)
+
+#### Mobile view
+Home and Events page
+![Home & Events - Mobile view](./assets/mobile-view-wireframe1.png)
+
+Profile and Create Events page
+![Profile and Creates Events - Mobile view](./assets/mobile-view-wireframe1.png)
+
+#### Tablet view
+Home and Events page
+![Home & Events - Tablet view](./assets/tablet-view-wireframe1.png)
+
+Profile and Create Events page
+![Profile and Creates Events - Tablet view](./assets/tablet-view-wireframe1.png)
 
 ## Trello Board
