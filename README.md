@@ -77,6 +77,7 @@ Home and Events page
 ![Home & Events - Desktop view](./assets/desktop-view-wireframe1.png)
 
 Profile and Create Events page
+
 ![Profile and Creates Events - Desktop view](./assets/desktop-view-wireframe2.png)
 
 #### Mobile view
@@ -85,6 +86,7 @@ Home and Events page
 ![Home & Events - Mobile view](./assets/mobile-view-wireframe1.png)
 
 Profile and Create Events page
+
 ![Profile and Creates Events - Mobile view](./assets/mobile-view-wireframe1.png)
 
 #### Tablet view
@@ -93,6 +95,7 @@ Home and Events page
 ![Home & Events - Tablet view](./assets/tablet-view-wireframe1.png)
 
 Profile and Create Events page
+
 ![Profile and Creates Events - Tablet view](./assets/tablet-view-wireframe1.png)
 
 ## Trello Board
