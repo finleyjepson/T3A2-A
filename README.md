@@ -122,13 +122,19 @@ The user will be able to upload a profile picture to their account by selecting 
 ## Trello Board
 
 - 2024-02-12
-![Profile and Creates Events - Tablet view](./assets/Trello/trello-12-feb.png)
+![Trello Board - 2024-02-12](./assets/Trello/trello-12-feb.png)
 
 - 2024-02-14
-![Profile and Creates Events - Tablet view](./assets/Trello/trello-14-feb.png)
+![Trello Board - 2024-02-14](./assets/Trello/trello-14-feb.png)
 
 - 2024-02-15
-![Profile and Creates Events - Tablet view](./assets/Trello/trello-15-feb.png)
+![Trello Board - 2024-02-15](./assets/Trello/trello-15-feb.png)
 
 - 2024-02-16
-![Profile and Creates Events - Tablet view](./assets/Trello/trello-16-feb.png)
+![Trello Board - 2024-02-16](./assets/Trello/trello-16-feb.png)
+
+- 2024-02-17 (Morning)
+![Trello Board - 2024-02-17 - Morning](./assets/Trello/trello-17-feb-morning.png)
+
+- 2024-02-17 (Evening)
+![Trello Board - 2024-02-17 - Evening](./assets/Trello/trello-17-feb-evening.png)
