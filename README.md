@@ -69,7 +69,21 @@ The user will be able to upload a profile picture to their account by selecting 
 ![Profile Picture Upload](./assets/DataFlowDiagram/image_upload.drawio.png)
 
 ## Application Architecture Diagram
+
 ![Application Architecture Diagram](./assets/AppArchitectureDiagram/app_architecture_diagram.png)
+
+### Frontend
+
+The Apps frontend is built using the React JavaScript library.
+It is responsible for creating an interface for the user to interact with the application. It will be responsible for rendering the user interface, handling user input, and making requests to the backend server.
+
+### Backend
+
+The backend of the application is built using the Express framework for Node.js. It is responsible for handling requests from the frontend, interacting with the database, and returning responses to the frontend.
+
+### Database
+
+The database for the application is built using MongoDB & AWS. It is responsible for storing all the data for the application, including user accounts, event listings, and profile pictures(AWS). The database will be accessed by the backend server via the Mongoose ODM.
 
 ## User Stories
 #### Written 14th February 2024
