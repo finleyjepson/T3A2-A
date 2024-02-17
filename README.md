@@ -97,7 +97,7 @@ The user will be able to upload a profile picture to their account by selecting 
 
 ![Home & Events - Desktop view](./assets/Wireframe/desktop-view-wireframe1.png)
 
-Profile and Create Events page
+- Profile and Create Events page
 
 ![Profile and Creates Events - Desktop view](./assets/Wireframe/desktop-view-wireframe2.png)
 
