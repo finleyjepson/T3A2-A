@@ -69,6 +69,7 @@ The user will be able to upload a profile picture to their account by selecting 
 ![Profile Picture Upload](./assets/DataFlowDiagram/image_upload.drawio.png)
 
 ## Application Architecture Diagram
+![Application Architecture Diagram](./assets/AppArchitectureDiagram/app_architecture_diagram.png)
 
 ## User Stories
 #### Written 14th February 2024
