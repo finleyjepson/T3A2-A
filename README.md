@@ -161,11 +161,16 @@ The database for the application is built using MongoDB & AWS. It is responsible
 
 ## Trello Board
 
+Our team decided to utilise [Trello](https://trello.com/) for the project management and planning methodology. Each task was delegated an owner, as represented by the profile photos in the bottom right of each card. Each card also had a start date and desired completed date that gave enough lead time.
+
+For Part A of the assessment, 2024-02-12 marked the first day of planning and delegating tasks. Screenshots of the Trello board were taken daily at approximately 5pm, besides 2024-02-13 where no significant changes were made and on 2024-02-17 when two screenshots were taken as significant progress was made from morning to evening.
+
 - 2024-02-12
 ![Trello Board - 2024-02-12](./docs/Trello/trello-12-feb.png)
 
 - 2024-02-14
 ![Trello Board - 2024-02-14](./docs/Trello/trello-14-feb.png)
+![Trello Board - 2024-02-14](./docs/Trello/trello-14-feb-wireframe.png)
 
 - 2024-02-15
 ![Trello Board - 2024-02-15](./docs/Trello/trello-15-feb.png)
