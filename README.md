@@ -105,36 +105,36 @@ The database for the application is built using MongoDB & AWS. It is responsible
 - As an event organiser, I want to be able to add an event name, state, category, date, venue, information and upload a photo, so that I can provide event information for patrons for my created event.
 
 ## Wireframes
-### Not logged in vs. Logged in
+### Log in/sign up flow
+- The first page a user will see is the home page which will contain a number of components that are not dependent on the user being logged in. From this page a user can choose to sign up or log in to an existing account.
 
-![Logged in wireframes](./assets/Wireframe/logged-in-wireframe.png)
+- Upon signing up or logging in, a user will then have access to their profile screen and can make customisations such as adding in a profile picture, adding in their top 5 anime/characters as well as viewing any upcoming events they have RSVP'd to.
 
-### Desktop view
-- Home and Events page
+![Log in flow](./assets/Wireframe/login-signup-flow.png)
 
-![Home & Events - Desktop view](./assets/Wireframe/desktop-view-wireframe-1.png)
+### App flow
+- From the home page, users will be presented with a calendar widget showing the current month and any events that are scheduled will be highlighted within this calendar. Additionally, a list view of the upcoming events will be shown to the user.
 
-- Profile and Create/Edit Events page
+- Clicking onto an event from the calender or upcoming events widget will take the user directly to the event information page where they can log their interest in the event by clicking 'Interested' or 'Not for me'.
 
-![Profile and Create/Edit Events - Desktop view](./assets/Wireframe/desktop-view-wireframe-2.png)
+- The navigation bar will have an 'All events' link which will take the user to the events landing page. This page will contain a list of all the events posted to the platform and will have filter options giving users the ability to find events that fit their criteria.
 
-### Mobile view
-- Home and Events page
+- Clicking onto any events on the event landing page will direct users to the event page where all the event information will be shown. Users can RSVP from this page.
 
-![Home & Events - Mobile view](./assets/Wireframe/mobile-view-wireframe-1.png)
+- The navigation bar will have a 'Create event' link which will only be available to authorised users (i.e. users who have been flagged as 'Organisers' by the Admins) and will take the user to a form allowing them to create a new event listing or edit an existing listing if it already exists. Once the event is published it will appear on the platform and will be available for users to view.
 
-- Profile and Create/Edit Events page
+![App flow](./assets/Wireframe/app-flow.png)
 
-![Profile and Create/Edit Events - Mobile view](./assets/Wireframe/mobile-view-wireframe-1.png)
+### Wireframes
+- Login and sign up screens
+![Login and sign up screens](./assets/Wireframe/login-signup-screens.png)
 
-### Tablet view
-- Home and Events page
-
-![Home & Events - Tablet view](./assets/Wireframe/tablet-view-wireframe-1.png)
-
-- Profile and Create/Edit Events page
-
-![Profile and Create/Edit Events - Tablet view](./assets/Wireframe/tablet-view-wireframe-2.png)
+- Desktop view
+![Desktop view](./assets/Wireframe/desktop-view.png)
+- Mobile view
+![Mobile view](./assets/Wireframe/mobile-view.png)
+- Tablet view
+![Tablet view](./assets/Wireframe/tablet-view.png)
 
 ## Trello Board
 
@@ -155,3 +155,4 @@ The database for the application is built using MongoDB & AWS. It is responsible
 
 - 2024-02-17 (Evening)
 ![Trello Board - 2024-02-17 - Evening](./assets/Trello/trello-17-feb-evening.png)
+
