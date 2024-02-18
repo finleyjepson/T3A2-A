@@ -97,7 +97,7 @@ The user will be able to upload a profile picture to their account by selecting 
 
 ![Home & Events - Desktop view](./assets/Wireframe/desktop-view-wireframe-1.png)
 
-- Profile and Create Events page
+- Profile and Create/Edit Events page
 
 ![Profile and Create/Edit Events - Desktop view](./assets/Wireframe/desktop-view-wireframe-2.png)
 
@@ -106,7 +106,7 @@ The user will be able to upload a profile picture to their account by selecting 
 
 ![Home & Events - Mobile view](./assets/Wireframe/mobile-view-wireframe-1.png)
 
-- Profile and Create Events page
+- Profile and Create/Edit Events page
 
 ![Profile and Create/Edit Events - Mobile view](./assets/Wireframe/mobile-view-wireframe-1.png)
 
@@ -115,20 +115,20 @@ The user will be able to upload a profile picture to their account by selecting 
 
 ![Home & Events - Tablet view](./assets/Wireframe/tablet-view-wireframe-1.png)
 
-- Profile and Create Events page
+- Profile and Create/Edit Events page
 
 ![Profile and Create/Edit Events - Tablet view](./assets/Wireframe/tablet-view-wireframe-2.png)
 
 ## Trello Board
 
 - 2024-02-12
-![Profile and Creates Events - Tablet view](./assets/Trello/trello-12-feb.png)
+![Trello update 2024-02-12](./assets/Trello/trello-12-feb.png)
 
 - 2024-02-14
-![Profile and Creates Events - Tablet view](./assets/Trello/trello-14-feb.png)
+![Trello update 2024-02-14](./assets/Trello/trello-14-feb.png)
 
 - 2024-02-15
-![Profile and Creates Events - Tablet view](./assets/Trello/trello-15-feb.png)
+![Trello update 2024-02-15](./assets/Trello/trello-15-feb.png)
 
 - 2024-02-16
-![Profile and Creates Events - Tablet view](./assets/Trello/trello-16-feb.png)
+![Trello update 2024-02-16](./assets/Trello/trello-16-feb.png)
