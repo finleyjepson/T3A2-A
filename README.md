@@ -30,8 +30,9 @@ The purpose of our app and website is to provide a comprehensive platform for bo
 - **Backend:** [Express](https://expressjs.com/) and [Node.js](https://nodejs.org/) 
 - **Frontend:** [React](https://react.dev/) 
 - **Object Data Modeling (ODM) library:** [Mongoose](https://mongoosejs.com/) 
+- **Dataflow Diagrams:** [draw.io](https://www.drawio.com/)
+- **Wireframes, Arhictecture Diagram:** [Figma](https://www.figma.com/) 
 - **Project management:** [Trello](https://trello.com/) 
-- **Wireframes:** [Figma](https://www.figma.com/) 
 - **Collaboration/communication:** [Discord](https://discord.com/) 
 
 ## Data Flow Diagram
