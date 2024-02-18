@@ -123,7 +123,7 @@ The database for the application is built using MongoDB & AWS. It is responsible
 
 - The navigation bar will have a 'Create event' link which will only be available to authorised users (i.e. users who have been flagged as 'Organisers' by the Admins) and will take the user to a form allowing them to create a new event listing or edit an existing listing if it already exists. Once the event is published it will appear on the platform and will be available for users to view.
 
-![App flow](./assets/Wireframe/app-flow2.png)
+![App flow](./assets/Wireframe/app-flow3.png)
 
 ### Wireframes
 - Login and sign up screens
@@ -134,7 +134,7 @@ The database for the application is built using MongoDB & AWS. It is responsible
 - Mobile view
 ![Mobile view](./assets/Wireframe/mobile-view.png)
 - Tablet view
-![Tablet view](./assets/Wireframe/tablet-view.png)
+![Tablet view](./assets/Wireframe/tablet-view2.png)
 
 ## Trello Board
 
