@@ -105,36 +105,36 @@ The database for the application is built using MongoDB & AWS. It is responsible
 - As an event organiser, I want to be able to add an event name, state, category, date, venue, information and upload a photo, so that I can provide event information for patrons for my created event.
 
 ## Wireframes
-#### Not logged in vs. Logged in
+### Not logged in vs. Logged in
 
 ![Logged in wireframes](./assets/Wireframe/logged-in-wireframe.png)
 
-#### Desktop view
+### Desktop view
 - Home and Events page
 
-![Home & Events - Desktop view](./assets/Wireframe/desktop-view-wireframe1.png)
+![Home & Events - Desktop view](./assets/Wireframe/desktop-view-wireframe-1.png)
 
 - Profile and Create Events page
 
-![Profile and Creates Events - Desktop view](./assets/Wireframe/desktop-view-wireframe2.png)
+![Profile and Create/Edit Events - Desktop view](./assets/Wireframe/desktop-view-wireframe-2.png)
 
-#### Mobile view
+### Mobile view
 - Home and Events page
 
-![Home & Events - Mobile view](./assets/Wireframe/mobile-view-wireframe1.png)
+![Home & Events - Mobile view](./assets/Wireframe/mobile-view-wireframe-1.png)
 
 - Profile and Create Events page
 
-![Profile and Creates Events - Mobile view](./assets/Wireframe/mobile-view-wireframe1.png)
+![Profile and Create/Edit Events - Mobile view](./assets/Wireframe/mobile-view-wireframe-1.png)
 
-#### Tablet view
+### Tablet view
 - Home and Events page
 
-![Home & Events - Tablet view](./assets/Wireframe/tablet-view-wireframe1.png)
+![Home & Events - Tablet view](./assets/Wireframe/tablet-view-wireframe-1.png)
 
 - Profile and Create Events page
 
-![Profile and Creates Events - Tablet view](./assets/Wireframe/tablet-view-wireframe1.png)
+![Profile and Create/Edit Events - Tablet view](./assets/Wireframe/tablet-view-wireframe-2.png)
 
 ## Trello Board
 
