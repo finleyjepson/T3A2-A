@@ -1,5 +1,5 @@
 # T3A2-A Anime Event and Screening Scheduler
-
+Created by Finley, Thomas and Jon
 ## Description
 
 [Github Repository](https://github.com/finleyjepson/T3A2-A)
@@ -42,11 +42,11 @@ The purpose of our app and website is to provide a comprehensive platform for bo
 - **Process -** These are the processes that occur within the system, eg. user authentication.
 - **Data Store -** These are the data stores that hold data within the system, eg. databases.
 
-![Legend](./assets/DataFlowDiagram/legend_diagram.drawio.png)
+![Legend](./docs/DataFlowDiagram/legend_diagram.drawio.png)
 
 ### Overview
 
-![Data Flow Diagram](./assets//DataFlowDiagram/overview_diagram.drawio.png)
+![Data Flow Diagram](./docs//DataFlowDiagram/overview_diagram.drawio.png)
 
 ### Events
 
@@ -54,7 +54,7 @@ The user will be able to view a list of upcoming events and screenings. The even
 
 Organisers will be able to create and manage event listings. They will be able to add an event name, state, category, date, venue, information.
 
-![Events](./assets/DataFlowDiagram/events_diagram.drawio.png)
+![Events](./docs/DataFlowDiagram/events_diagram.drawio.png)
 
 ### Login/Registration
 
@@ -62,17 +62,17 @@ The user will be able to access the platform logging in with their username and 
 
 Organisers can access the platform by logging in with their username and password. If the organiser does not have an account, they can register and create a new account. The account will need to be flagged as an organiser by an admin.
 
-![Login/Registration](./assets/DataFlowDiagram/login_diagram.png)
+![Login/Registration](./docs/DataFlowDiagram/login_diagram.png)
 
 ### Profile Picture Upload
 
 The user will be able to upload a profile picture to their account by selecting an image file from their device. The image image will be uploaded to the AWS storage and a URL will be sent back to then be stored in the user's account in the users collection in the database.
 
-![Profile Picture Upload](./assets/DataFlowDiagram/image_upload.drawio.png)
+![Profile Picture Upload](./docs/DataFlowDiagram/image_upload.drawio.png)
 
 ## Application Architecture Diagram
 
-![Application Architecture Diagram](./assets/AppArchitectureDiagram/app_architecture_diagram.png)
+![Application Architecture Diagram](./docs/AppArchitectureDiagram/app_architecture_diagram.png)
 
 ### Frontend
 
@@ -110,7 +110,7 @@ The database for the application is built using MongoDB & AWS. It is responsible
 
 - Upon signing up or logging in, a user will then have access to their profile screen and can make customisations such as adding in a profile picture, adding in their top 5 anime/characters as well as viewing any upcoming events they have RSVP'd to.
 
-![Log in flow](./assets/Wireframe/login-signup-flow.png)
+![Log in flow](./docs/Wireframe/login-signup-flow.png)
 
 ### App flow
 - From the home page, users will be presented with a calendar widget showing the current month and any events that are scheduled will be highlighted within this calendar. Additionally, a list view of the upcoming events will be shown to the user.
@@ -123,36 +123,36 @@ The database for the application is built using MongoDB & AWS. It is responsible
 
 - The navigation bar will have a 'Create event' link which will only be available to authorised users (i.e. users who have been flagged as 'Organisers' by the Admins) and will take the user to a form allowing them to create a new event listing or edit an existing listing if it already exists. Once the event is published it will appear on the platform and will be available for users to view.
 
-![App flow](./assets/Wireframe/app-flow3.png)
+![App flow](./docs/Wireframe/app-flow3.png)
 
 ### Wireframes
 - Login and sign up screens
-![Login and sign up screens](./assets/Wireframe/login-signup-screens.png)
+![Login and sign up screens](./docs/Wireframe/login-signup-screens.png)
 
 - Desktop view
-![Desktop view](./assets/Wireframe/desktop-view.png)
+![Desktop view](./docs/Wireframe/desktop-view.png)
 - Mobile view
-![Mobile view](./assets/Wireframe/mobile-view.png)
+![Mobile view](./docs/Wireframe/mobile-view.png)
 - Tablet view
-![Tablet view](./assets/Wireframe/tablet-view2.png)
+![Tablet view](./docs/Wireframe/tablet-view2.png)
 
 ## Trello Board
 
 - 2024-02-12
-![Trello Board - 2024-02-12](./assets/Trello/trello-12-feb.png)
+![Trello Board - 2024-02-12](./docs/Trello/trello-12-feb.png)
 
 - 2024-02-14
-![Trello Board - 2024-02-14](./assets/Trello/trello-14-feb.png)
+![Trello Board - 2024-02-14](./docs/Trello/trello-14-feb.png)
 
 - 2024-02-15
-![Trello Board - 2024-02-15](./assets/Trello/trello-15-feb.png)
+![Trello Board - 2024-02-15](./docs/Trello/trello-15-feb.png)
 
 - 2024-02-16
-![Trello Board - 2024-02-16](./assets/Trello/trello-16-feb.png)
+![Trello Board - 2024-02-16](./docs/Trello/trello-16-feb.png)
 
 - 2024-02-17 (Morning)
-![Trello Board - 2024-02-17 - Morning](./assets/Trello/trello-17-feb-morning.png)
+![Trello Board - 2024-02-17 - Morning](./docs/Trello/trello-17-feb-morning.png)
 
 - 2024-02-17 (Evening)
-![Trello Board - 2024-02-17 - Evening](./assets/Trello/trello-17-feb-evening.png)
+![Trello Board - 2024-02-17 - Evening](./docs/Trello/trello-17-feb-evening.png)
 
