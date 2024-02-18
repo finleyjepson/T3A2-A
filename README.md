@@ -114,7 +114,7 @@ The database for the application is built using MongoDB & AWS. It is responsible
 
 ![Home & Events - Desktop view](./assets/Wireframe/desktop-view-wireframe-1.png)
 
-- Profile and Create Events page
+- Profile and Create/Edit Events page
 
 ![Profile and Create/Edit Events - Desktop view](./assets/Wireframe/desktop-view-wireframe-2.png)
 
@@ -123,7 +123,7 @@ The database for the application is built using MongoDB & AWS. It is responsible
 
 ![Home & Events - Mobile view](./assets/Wireframe/mobile-view-wireframe-1.png)
 
-- Profile and Create Events page
+- Profile and Create/Edit Events page
 
 ![Profile and Create/Edit Events - Mobile view](./assets/Wireframe/mobile-view-wireframe-1.png)
 
@@ -132,7 +132,7 @@ The database for the application is built using MongoDB & AWS. It is responsible
 
 ![Home & Events - Tablet view](./assets/Wireframe/tablet-view-wireframe-1.png)
 
-- Profile and Create Events page
+- Profile and Create/Edit Events page
 
 ![Profile and Create/Edit Events - Tablet view](./assets/Wireframe/tablet-view-wireframe-2.png)
 
