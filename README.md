@@ -125,14 +125,37 @@ The database for the application is built using MongoDB & AWS. It is responsible
 
 ![App flow](./docs/Wireframe/app-flow3.png)
 
+### Home page - Content prioritisation
+
+- The application's first and foremost goal is to be intuitive and easy for the user to decide whether or not they would like to attend an event. Given this purpose: 
+    1. The first priority that a user would like to see would be a calendar so the user could quickly check whether or not any event timings would fit into their schedule. 
+    1. The second priority would be a written list of upcoming events which would provide more information such as the type of event happening (anime movie screening, anime episode marathon, meet & greet, anime convention) and the location in an attempt to further catch the user's interest.
+    1. The third priority would be a list of upcoming animeswhich would also serve as a way to catch the user's interest.
+    1. The fourth priority would be an weekly poll that would serve to drive engagement and give the organiser's some feedback as to what events the users would like to see next.
+
+- This application is being built following the 'mobile-first' concept, and hence the order of the components follows our specified priority in mobile view. In desktop and tablet mode, the device will have additional screen space and hence priority 3 and 4 items are pushed to the sidebar.
+![Home page content prioritisation](./docs/Wireframe/homepage-priority.png)
+
+### Event page - Content prioritisation
+- Upon entering the event page our content is laid out based on the following justifications:
+    1. The user will need confirmation of the anime event they would like to attend, hence priority #1 is the anime name and title screen.
+    1. The user will need more information about the event such as the location, the event type, the date and any other pertinent information hence priority #2 is the information box
+    1. The RSVP buttons are priority #3 and act as a call to action for the user to log their interest in the event. It has been placed high up in the event page so that the user is instantly reminded that they can RSVP to the event.
+    1. The maps view is priority #4 which is an addition to the information box. Users may already be familiar with the location and hence the maps widget ranks lower in terms of priority.
+
+- Much like the home page, our content in mobile view reflects our specified order of priority in a vertical layout, whilst in desktop/tablet view the components are nested next to each other due to the increased screen availability.
+![Event page content prioritisation](./docs/Wireframe/eventpage-priority.png)
+
 ### Wireframes
 - Login and sign up screens
 ![Login and sign up screens](./docs/Wireframe/login-signup-screens.png)
 
-- Desktop view
-![Desktop view](./docs/Wireframe/desktop-view.png)
 - Mobile view
-![Mobile view](./docs/Wireframe/mobile-view.png)
+![Mobile view](./docs/Wireframe/mobile-view2.png)
+
+- Desktop view
+![Desktop view](./docs/Wireframe/desktop-view3.png)
+
 - Tablet view
 ![Tablet view](./docs/Wireframe/tablet-view2.png)
 
