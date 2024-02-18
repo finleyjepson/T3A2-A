@@ -2,6 +2,8 @@
 
 ## Description
 
+[Github Repository](https://github.com/finleyjepson/T3A2-A)
+
 ### Purpose
 
 The purpose of our app and website is to provide a comprehensive platform for both anime enthusiasts and Madman Entertainment, an Australian distribution and rights management company, to discover, engage with and organise anime-related events. Our platform is designed to facilitate anime screenings, streamline event organisation and enhance engagement within the anime community.
